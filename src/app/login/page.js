@@ -59,7 +59,7 @@ const Login = () => {
         </button>
         {error && <p className="mt-4 text-center text-red-500">{error}</p>}
         <p className="mt-4 text-center text-gray-600">
-          Don't have an account?{' '}
+          Don't have an account?
           <Link href="/signup" className="text-blue-500 hover:text-blue-600 font-semibold">
             Sign Up
           </Link>

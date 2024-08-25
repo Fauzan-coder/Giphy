@@ -79,7 +79,7 @@ function GiphySearch() {
     if (searchTerm) {
       handleSearch(searchTerm);
     }
-  }, [currentPage, searchTerm]);
+  }, [currentPage, searchTerm, handleSearch]);
 
   return (
     <div className="min-h-screen bg-white items-center justify-center py-10">

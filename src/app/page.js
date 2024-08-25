@@ -1,9 +1,7 @@
 "use client";
 import { useEffect, useState } from 'react';
 import { getAuth, onAuthStateChanged } from 'firebase/auth';
-import Login from './login/page'; 
-import Signup from './signup/page';
-import Profile from './profile/Profile';
+import Login from './login/page';
 import { useRouter } from 'next/navigation';
 
 const Home = () => {
@@ -35,7 +33,7 @@ const Home = () => {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
       {!user && (
         <div className="w-full max-w-sm bg-white p-8 rounded-lg shadow-md">
-          <Signup />
+          <Login />
         </div>
       )}
     </div>
