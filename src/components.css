@@ -1,0 +1,770 @@
+/* Results */
+
+position: absolute;
+width: 1136px;
+height: 534px;
+left: 72px;
+top: 194px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 0px 0px 20px 20px;
+
+
+/* Interactive Pagination */
+
+position: absolute;
+width: 270px;
+height: 45px;
+left: 433px;
+top: 438px;
+
+
+
+/* Highlight */
+
+position: absolute;
+width: 32px;
+height: 45px;
+left: 84px;
+top: 0px;
+
+
+
+/* Rectangle Copy 9 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 91.3%;
+bottom: 0%;
+
+/* Pink */
+background: #EB518F;
+
+
+/* Rectangle Copy 10 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 8.7%;
+
+/* Pink */
+background: #EB518F;
+opacity: 0.15;
+
+
+/* Numbers */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 67px;
+
+position: absolute;
+width: 270px;
+height: 32px;
+left: 0px;
+top: 5px;
+
+
+
+/* Previous */
+
+margin: 0 auto;
+width: 68px;
+height: 16px;
+
+/* Numbers */
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+/* not black */
+color: #272727;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 8px;
+gap: 10px;
+
+margin: 0 auto;
+width: 25px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 1 */
+
+width: 9px;
+height: 16px;
+
+/* Numbers */
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+/* not black */
+color: #272727;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 8px;
+gap: 10px;
+
+margin: 0 auto;
+width: 25px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 2 */
+
+width: 9px;
+height: 16px;
+
+/* Numbers */
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+/* not black */
+color: #272727;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 8px;
+gap: 10px;
+
+margin: 0 auto;
+width: 25px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* 3 */
+
+width: 9px;
+height: 16px;
+
+/* Numbers */
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+/* not black */
+color: #272727;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Next */
+
+margin: 0 auto;
+width: 49px;
+height: 16px;
+
+/* Numbers */
+font-family: 'IBM Plex Mono';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+/* not black */
+color: #272727;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 354px;
+height: 323px;
+left: 732px;
+top: 0px;
+
+
+
+/* Featured */
+
+position: absolute;
+width: 354px;
+height: 323px;
+left: 732px;
+top: 0px;
+
+
+
+/* selected */
+
+position: absolute;
+visibility: hidden;
+width: 402px;
+height: 371px;
+left: 708px;
+top: -24px;
+
+/* Input field background */
+background: #F2F4F8;
+opacity: 0.65;
+border-radius: 20px;
+
+
+/* Featured image */
+
+position: absolute;
+width: 354px;
+height: 236px;
+left: 732px;
+top: 0px;
+
+background: url(image.png);
+border-radius: 12px;
+
+
+/* Viktoria Bolonina */
+
+position: absolute;
+width: 184px;
+height: 30px;
+left: 732px;
+top: 265px;
+
+/* Title */
+font-family: 'Apercu Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+/* Black */
+color: #000000;
+
+
+
+/* @c5m2h3 */
+
+position: absolute;
+width: 70px;
+height: 20px;
+left: 732px;
+top: 303px;
+
+/* Details 16/20 */
+font-family: 'Apercu Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+/* Secondary gray */
+color: #999FAA;
+
+
+
+/* Star 1 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 1043px;
+top: 267px;
+
+background: #F4CF08;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 354px;
+height: 323px;
+left: 378px;
+top: 0px;
+
+
+
+/* Featured */
+
+position: absolute;
+width: 354px;
+height: 323px;
+left: 378px;
+top: 0px;
+
+
+
+/* selected */
+
+position: absolute;
+visibility: hidden;
+width: 402px;
+height: 371px;
+left: 354px;
+top: -24px;
+
+/* Input field background */
+background: #F2F4F8;
+opacity: 0.65;
+border-radius: 20px;
+
+
+/* Featured image */
+
+position: absolute;
+width: 354px;
+height: 236px;
+left: 378px;
+top: 0px;
+
+background: url(image.png);
+border-radius: 12px;
+
+
+/* Viktoria Bolonina */
+
+position: absolute;
+width: 184px;
+height: 30px;
+left: 378px;
+top: 265px;
+
+/* Title */
+font-family: 'Apercu Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+/* Black */
+color: #000000;
+
+
+
+/* @marjanblan */
+
+position: absolute;
+width: 92px;
+height: 20px;
+left: 378px;
+top: 303px;
+
+/* Details 16/20 */
+font-family: 'Apercu Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+/* Secondary gray */
+color: #999FAA;
+
+
+
+/* Star 2 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 689px;
+top: 267px;
+
+background: #F4CF08;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 354px;
+height: 323px;
+left: 24px;
+top: 0px;
+
+
+
+/* Featured */
+
+position: absolute;
+width: 354px;
+height: 323px;
+left: 24px;
+top: 0px;
+
+
+
+/* selected */
+
+position: absolute;
+visibility: hidden;
+width: 402px;
+height: 371px;
+left: 0px;
+top: -24px;
+
+/* Input field background */
+background: #F2F4F8;
+opacity: 0.65;
+border-radius: 20px;
+
+
+/* Featured image */
+
+position: absolute;
+width: 354px;
+height: 236px;
+left: 24px;
+top: 0px;
+
+background: url(image);
+border-radius: 12px;
+
+
+/* Viktoria Bolonina */
+
+position: absolute;
+width: 184px;
+height: 30px;
+left: 24px;
+top: 265px;
+
+/* Title */
+font-family: 'Apercu Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+/* Black */
+color: #000000;
+
+
+
+/* @viktoriaphotographs */
+
+position: absolute;
+width: 154px;
+height: 20px;
+left: 24px;
+top: 303px;
+
+/* Details 16/20 */
+font-family: 'Apercu Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+/* Secondary gray */
+color: #999FAA;
+
+
+
+/* Star 3 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 335px;
+top: 267px;
+
+background: #F4CF08;
+-------------------------------------------------------------------------------
+/* Results */
+
+position: absolute;
+width: 1136px;
+height: 558px;
+left: 72px;
+top: 170px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 0px 0px 20px 20px;
+
+
+/* Spinner */
+
+position: absolute;
+width: 56px;
+height: 56px;
+left: 540px;
+top: 213px;
+
+
+
+/* Subtract */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: conic-gradient(from 144.95deg at 50% 50%, #999FAA 0deg, rgba(232, 234, 238, 0) 360deg);
+
+-------------------------------------------------------------------------------------------------------------
+/* Search */
+
+position: relative;
+width: 1280px;
+height: 800px;
+
+/* Page background */
+background: #E8EAEE;
+
+
+/* Search module */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px;
+gap: 20px;
+
+position: absolute;
+width: 816px;
+height: 122px;
+left: calc(50% - 816px/2 + 0px);
+top: 72px;
+
+background: #FFFFFF;
+border-radius: 20px;
+
+
+/* Search components */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 768px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Search box */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 24px;
+gap: 10px;
+
+width: 642px;
+height: 74px;
+
+/* Input field background */
+background: #F2F4F8;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Search icon */
+
+width: 24px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: flex-start;
+flex-grow: 0;
+
+
+/* Search icon */
+
+position: absolute;
+left: 0%;
+right: 2.16%;
+top: 0%;
+bottom: 2.08%;
+
+background: #000000;
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 18.56%;
+top: 0%;
+bottom: 21.58%;
+
+border: 3px solid #000000;
+
+
+/* Line 1 */
+
+position: absolute;
+left: 56.7%;
+right: -2.58%;
+top: 66.66%;
+bottom: 33.34%;
+
+border: 3px solid #000000;
+transform: matrix(0.7, 0.71, -0.7, 0.71, 0, 0);
+
+
+/* Article name or keywords... */
+
+width: 560px;
+height: 26px;
+
+/* Regular text */
+font-family: 'Apercu Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: center;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px;
+gap: 10px;
+
+width: 110px;
+height: 74px;
+
+/* Black */
+background: #000000;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Search */
+
+width: 62px;
+height: 26px;
+
+/* Regular text */
+font-family: 'Apercu Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
